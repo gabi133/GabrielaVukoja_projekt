@@ -1,0 +1,32 @@
+p {
+color: black;
+width: 650px;
+padding: 20px;
+font-size: 16px
+}
+h1 {
+    font-family: "GabrielaVukojav";
+    src:url("Gabriela_Vukoja_projektni_zadatak1.ttf"); 
+}
+body {
+	background-image: url(slike/pozadina6.jpg);
+}
+h1, h2 {
+	color:#31144a;
+	padding: 8px;	
+}
+img {height:400px;}
+a{
+	padding: 20px;
+	}
+img{
+	padding: 25px;
+}
+video{
+	padding: 25px;
+	height:600px;
+}	
+p {
+	font-size: 20px
+}
+	
